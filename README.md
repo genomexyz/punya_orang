@@ -1,5 +1,5 @@
 # punya_orang
 
 after git clone:
-mkdir allcsv
+mkdir allcsv <br/>
 mkdir output
