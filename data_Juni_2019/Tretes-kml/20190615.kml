@@ -1,0 +1,3875 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+   <name>20190615</name>
+   <Style id="CGPositive">
+      <IconStyle>
+         <Icon>
+            <href>http://www.aninoquisi.com/cgp.png</href>
+         </Icon>
+      </IconStyle>
+   </Style>
+   <Style id="CGNegative">
+      <IconStyle>
+         <Icon>
+            <href>http://www.aninoquisi.com/cgn.png</href>
+         </Icon>
+      </IconStyle>
+   </Style>
+   <Folder>
+      <name>+CG</name>
+      <description>positive cloud-to-ground lightning flashes</description>
+      <Folder>
+         <name>12:00 AM - 1:00 AM</name>
+         <description>13 positive cloud-to-ground lightning flashes from 12:00 AM to 1:00 AM</description>
+         <Folder>
+            <name>12:00 AM - 12:15 AM</name>
+            <description>1 positive cloud-to-ground lightning flashes from 12:00 AM to 12:15 AM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>113.8453855,-4.8640582</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>12:15 AM - 12:30 AM</name>
+            <description>2 positive cloud-to-ground lightning flashes from 12:15 AM to 12:30 AM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>109.3411883,-6.0501691</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>107.8356283,-3.3813175</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>12:30 AM - 12:45 AM</name>
+            <description>3 positive cloud-to-ground lightning flashes from 12:30 AM to 12:45 AM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>104.9030383,-2.6741220</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>108.1119206,-5.1048249</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.3715944,-4.6473476</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>12:45 AM - 1:00 AM</name>
+            <description>7 positive cloud-to-ground lightning flashes from 12:45 AM to 1:00 AM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>114.2220679,-5.1356785</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.1067367,-5.3311097</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.2596643,-4.9938362</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.8519270,-6.1550309</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.8173508,-5.9498723</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.5426598,-6.9152917</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.5281603,-6.9703425</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+      </Folder>
+      <Folder>
+         <name>1:00 AM - 2:00 AM</name>
+         <description>15 positive cloud-to-ground lightning flashes from 1:00 AM to 2:00 AM</description>
+         <Folder>
+            <name>1:00 AM - 1:15 AM</name>
+            <description>5 positive cloud-to-ground lightning flashes from 1:00 AM to 1:15 AM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>110.4929104,-6.9853162</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.5385183,-7.0751507</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.5005753,-6.9677407</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.6509519,-6.7103021</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.2461780,-6.4808381</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>1:15 AM - 1:30 AM</name>
+            <description>3 positive cloud-to-ground lightning flashes from 1:15 AM to 1:30 AM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>113.4626527,-4.7236949</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>113.1446879,-4.7360075</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>103.7600097,-3.3344429</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>1:30 AM - 1:45 AM</name>
+            <description>3 positive cloud-to-ground lightning flashes from 1:30 AM to 1:45 AM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>110.1521661,-6.6651794</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.1239032,-6.6949148</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>113.0263300,-6.5975817</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>1:45 AM - 2:00 AM</name>
+            <description>4 positive cloud-to-ground lightning flashes from 1:45 AM to 2:00 AM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>113.1643595,-4.3065440</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.2236810,-6.3115981</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.3212742,-6.6329556</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.8712902,-6.8050920</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+      </Folder>
+      <Folder>
+         <name>2:00 AM - 3:00 AM</name>
+         <description>7 positive cloud-to-ground lightning flashes from 2:00 AM to 3:00 AM</description>
+         <Folder>
+            <name>2:00 AM - 2:15 AM</name>
+            <description>3 positive cloud-to-ground lightning flashes from 2:00 AM to 2:15 AM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>109.8708563,-5.9740511</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>108.2496318,0.8973900</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>108.4784798,-6.2137529</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>2:15 AM - 2:30 AM</name>
+            <description>3 positive cloud-to-ground lightning flashes from 2:15 AM to 2:30 AM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>112.6658054,-7.3224238</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>103.9739330,-3.8917051</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.8080166,-6.1175736</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>2:30 AM - 2:45 AM</name>
+            <description>1 positive cloud-to-ground lightning flashes from 2:30 AM to 2:45 AM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>110.1687182,-5.4862899</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+      </Folder>
+      <Folder>
+         <name>3:00 AM - 4:00 AM</name>
+         <description>23 positive cloud-to-ground lightning flashes from 3:00 AM to 4:00 AM</description>
+         <Folder>
+            <name>3:00 AM - 3:15 AM</name>
+            <description>2 positive cloud-to-ground lightning flashes from 3:00 AM to 3:15 AM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>113.9909937,-5.7799332</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>104.3204683,-4.5655407</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>3:15 AM - 3:30 AM</name>
+            <description>7 positive cloud-to-ground lightning flashes from 3:15 AM to 3:30 AM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>112.9415063,-7.3009405</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>112.8847120,-7.3215027</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.2661431,-5.3385170</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.8361294,-4.9220212</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.9116630,-4.8753283</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.9419390,-5.1294598</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>115.3887863,-5.8925877</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>3:30 AM - 3:45 AM</name>
+            <description>7 positive cloud-to-ground lightning flashes from 3:30 AM to 3:45 AM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>110.5961922,-4.8571411</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>108.4718034,-5.2516914</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.3324313,-3.7174070</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.7645659,-3.7848740</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.9237856,-3.8647070</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.9925846,-6.4616980</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.2732313,-6.1852090</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>3:45 AM - 4:00 AM</name>
+            <description>7 positive cloud-to-ground lightning flashes from 3:45 AM to 4:00 AM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>111.8211401,-6.9450544</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.0325769,-5.8947690</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.8210534,-5.8954356</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.2541360,-6.2151488</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.3784223,-6.2932240</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.7767778,-6.5252499</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.4644584,-6.0169029</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+      </Folder>
+      <Folder>
+         <name>4:00 AM - 5:00 AM</name>
+         <description>20 positive cloud-to-ground lightning flashes from 4:00 AM to 5:00 AM</description>
+         <Folder>
+            <name>4:00 AM - 4:15 AM</name>
+            <description>5 positive cloud-to-ground lightning flashes from 4:00 AM to 4:15 AM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>110.6536431,-6.6398559</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.2113948,-6.3488700</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.7308966,-6.4764020</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.3732226,-5.9475449</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.9440868,-6.0186942</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>4:15 AM - 4:30 AM</name>
+            <description>4 positive cloud-to-ground lightning flashes from 4:15 AM to 4:30 AM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>111.8082581,-7.0134030</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.9529730,-7.0261337</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.1230147,-6.2319834</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.5222569,-7.1086306</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>4:30 AM - 4:45 AM</name>
+            <description>5 positive cloud-to-ground lightning flashes from 4:30 AM to 4:45 AM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>110.8217463,-5.8521635</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.5480173,-6.8257725</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.0787647,-5.9849544</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.3514530,-5.5229559</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.4259281,-6.7908522</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>4:45 AM - 5:00 AM</name>
+            <description>6 positive cloud-to-ground lightning flashes from 4:45 AM to 5:00 AM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>110.3494471,-6.9811886</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5349641,-6.6689642</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.3012458,-6.7001636</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.0199460,-6.6334520</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>108.5058654,-6.1014206</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5005866,-6.3309205</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+      </Folder>
+      <Folder>
+         <name>5:00 AM - 6:00 AM</name>
+         <description>21 positive cloud-to-ground lightning flashes from 5:00 AM to 6:00 AM</description>
+         <Folder>
+            <name>5:00 AM - 5:15 AM</name>
+            <description>5 positive cloud-to-ground lightning flashes from 5:00 AM to 5:15 AM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>111.3550664,-6.4547995</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>108.8598116,-5.5383985</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.6679597,-4.6514182</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>112.1444858,-7.4930056</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>108.3246379,-3.4849273</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>5:15 AM - 5:30 AM</name>
+            <description>5 positive cloud-to-ground lightning flashes from 5:15 AM to 5:30 AM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>112.0127820,-7.1783587</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.0500377,-5.3303625</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>112.2381433,-7.5400248</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.8264359,-7.3901569</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>103.2754497,-4.1426289</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>5:30 AM - 5:45 AM</name>
+            <description>7 positive cloud-to-ground lightning flashes from 5:30 AM to 5:45 AM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>102.3419606,-3.6179526</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>102.2966253,-3.5288687</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>102.9414486,-2.0313404</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>101.8215499,-4.0519166</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>102.4538861,-2.9388823</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>102.5733702,-3.3297112</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>102.6100597,-2.5935773</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>5:45 AM - 6:00 AM</name>
+            <description>4 positive cloud-to-ground lightning flashes from 5:45 AM to 6:00 AM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>111.5387243,-6.3772881</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>102.6304458,-3.0401158</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.7051542,-6.1302405</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>102.5050152,-3.1038165</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+      </Folder>
+      <Folder>
+         <name>6:00 AM - 7:00 AM</name>
+         <description>4 positive cloud-to-ground lightning flashes from 6:00 AM to 7:00 AM</description>
+         <Folder>
+            <name>6:00 AM - 6:15 AM</name>
+            <description>2 positive cloud-to-ground lightning flashes from 6:00 AM to 6:15 AM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>103.3928793,-2.9105996</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5437486,-6.2581154</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>6:15 AM - 6:30 AM</name>
+            <description>2 positive cloud-to-ground lightning flashes from 6:15 AM to 6:30 AM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>111.4576830,-6.3455634</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.4997679,-6.3970872</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+      </Folder>
+      <Folder>
+         <name>7:00 AM - 8:00 AM</name>
+         <description>3 positive cloud-to-ground lightning flashes from 7:00 AM to 8:00 AM</description>
+         <Folder>
+            <name>7:15 AM - 7:30 AM</name>
+            <description>2 positive cloud-to-ground lightning flashes from 7:15 AM to 7:30 AM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>111.5129697,-6.3348483</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.6442734,-6.0893145</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>7:30 AM - 7:45 AM</name>
+            <description>1 positive cloud-to-ground lightning flashes from 7:30 AM to 7:45 AM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>111.2318710,-6.3978557</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+      </Folder>
+      <Folder>
+         <name>8:00 AM - 9:00 AM</name>
+         <description>6 positive cloud-to-ground lightning flashes from 8:00 AM to 9:00 AM</description>
+         <Folder>
+            <name>8:00 AM - 8:15 AM</name>
+            <description>2 positive cloud-to-ground lightning flashes from 8:00 AM to 8:15 AM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>111.7190455,-6.7500899</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.3469537,-6.3768096</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>8:15 AM - 8:30 AM</name>
+            <description>2 positive cloud-to-ground lightning flashes from 8:15 AM to 8:30 AM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>111.3985556,-6.4732591</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.2327848,-6.9719800</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>8:45 AM - 9:00 AM</name>
+            <description>2 positive cloud-to-ground lightning flashes from 8:45 AM to 9:00 AM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>111.4609035,-6.3564183</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.3272705,-6.0087007</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+      </Folder>
+      <Folder>
+         <name>9:00 AM - 10:00 AM</name>
+         <description>1 positive cloud-to-ground lightning flashes from 9:00 AM to 10:00 AM</description>
+         <Folder>
+            <name>9:30 AM - 9:45 AM</name>
+            <description>1 positive cloud-to-ground lightning flashes from 9:30 AM to 9:45 AM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>111.4130080,-7.0196472</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+      </Folder>
+      <Folder>
+         <name>10:00 AM - 11:00 AM</name>
+         <description>1 positive cloud-to-ground lightning flashes from 10:00 AM to 11:00 AM</description>
+         <Folder>
+            <name>10:30 AM - 10:45 AM</name>
+            <description>1 positive cloud-to-ground lightning flashes from 10:30 AM to 10:45 AM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>108.6823778,-5.6225644</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+      </Folder>
+      <Folder>
+         <name>11:00 AM - 12:00 PM</name>
+         <description>1 positive cloud-to-ground lightning flashes from 11:00 AM to 12:00 PM</description>
+         <Folder>
+            <name>11:00 AM - 11:15 AM</name>
+            <description>1 positive cloud-to-ground lightning flashes from 11:00 AM to 11:15 AM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>108.1836872,-5.4627984</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+      </Folder>
+      <Folder>
+         <name>12:00 PM - 1:00 PM</name>
+         <description>1 positive cloud-to-ground lightning flashes from 12:00 PM to 1:00 PM</description>
+         <Folder>
+            <name>12:15 PM - 12:30 PM</name>
+            <description>1 positive cloud-to-ground lightning flashes from 12:15 PM to 12:30 PM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>111.5540003,-6.7516970</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+      </Folder>
+      <Folder>
+         <name>1:00 PM - 2:00 PM</name>
+         <description>1 positive cloud-to-ground lightning flashes from 1:00 PM to 2:00 PM</description>
+         <Folder>
+            <name>1:00 PM - 1:15 PM</name>
+            <description>1 positive cloud-to-ground lightning flashes from 1:00 PM to 1:15 PM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>109.6695530,-5.9005542</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+      </Folder>
+      <Folder>
+         <name>2:00 PM - 3:00 PM</name>
+         <description>1 positive cloud-to-ground lightning flashes from 2:00 PM to 3:00 PM</description>
+         <Folder>
+            <name>2:00 PM - 2:15 PM</name>
+            <description>1 positive cloud-to-ground lightning flashes from 2:00 PM to 2:15 PM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>111.5154898,-6.7602815</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+      </Folder>
+      <Folder>
+         <name>5:00 PM - 6:00 PM</name>
+         <description>1 positive cloud-to-ground lightning flashes from 5:00 PM to 6:00 PM</description>
+         <Folder>
+            <name>5:15 PM - 5:30 PM</name>
+            <description>1 positive cloud-to-ground lightning flashes from 5:15 PM to 5:30 PM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>108.2415609,-5.5738467</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+      </Folder>
+      <Folder>
+         <name>6:00 PM - 7:00 PM</name>
+         <description>5 positive cloud-to-ground lightning flashes from 6:00 PM to 7:00 PM</description>
+         <Folder>
+            <name>6:00 PM - 6:15 PM</name>
+            <description>2 positive cloud-to-ground lightning flashes from 6:00 PM to 6:15 PM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>104.0859834,-2.3252329</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>100.9056866,-1.1212650</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>6:15 PM - 6:30 PM</name>
+            <description>1 positive cloud-to-ground lightning flashes from 6:15 PM to 6:30 PM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>110.4765924,0.9417539</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>6:30 PM - 6:45 PM</name>
+            <description>1 positive cloud-to-ground lightning flashes from 6:30 PM to 6:45 PM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>110.4191538,1.4523675</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>6:45 PM - 7:00 PM</name>
+            <description>1 positive cloud-to-ground lightning flashes from 6:45 PM to 7:00 PM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>100.1748525,-0.2522211</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+      </Folder>
+      <Folder>
+         <name>7:00 PM - 8:00 PM</name>
+         <description>14 positive cloud-to-ground lightning flashes from 7:00 PM to 8:00 PM</description>
+         <Folder>
+            <name>7:00 PM - 7:15 PM</name>
+            <description>3 positive cloud-to-ground lightning flashes from 7:00 PM to 7:15 PM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>99.4323987,-0.9382470</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>98.9296020,-2.9578579</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>99.7091678,-1.0827139</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>7:15 PM - 7:30 PM</name>
+            <description>1 positive cloud-to-ground lightning flashes from 7:15 PM to 7:30 PM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>99.6158196,-1.4433561</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>7:30 PM - 7:45 PM</name>
+            <description>2 positive cloud-to-ground lightning flashes from 7:30 PM to 7:45 PM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>88.2947417,1.7658651</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>89.7044748,4.7806862</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>7:45 PM - 8:00 PM</name>
+            <description>8 positive cloud-to-ground lightning flashes from 7:45 PM to 8:00 PM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>88.2919327,2.4727485</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>88.6958317,2.8417608</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>90.6289283,5.9464145</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>90.6694036,6.4063218</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>88.1583146,1.4512633</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>103.7726975,-5.1454290</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>104.2959958,-5.4966253</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>103.8874109,-5.0560528</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+      </Folder>
+      <Folder>
+         <name>8:00 PM - 9:00 PM</name>
+         <description>25 positive cloud-to-ground lightning flashes from 8:00 PM to 9:00 PM</description>
+         <Folder>
+            <name>8:00 PM - 8:15 PM</name>
+            <description>3 positive cloud-to-ground lightning flashes from 8:00 PM to 8:15 PM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>99.8319491,-0.3708434</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>106.0339088,-3.9720296</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>105.7759573,-3.2949861</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>8:15 PM - 8:30 PM</name>
+            <description>11 positive cloud-to-ground lightning flashes from 8:15 PM to 8:30 PM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>106.2790220,-4.9915771</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>106.1906890,-3.6484394</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.4507957,1.4807293</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>107.8841719,-4.7458429</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>107.7313331,-5.3685269</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.6535880,-6.2080723</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.7371921,-6.6494486</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.0617987,-6.7048374</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.0879183,4.6720760</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.0428611,-6.2126255</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.5701809,-6.6697397</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>8:30 PM - 8:45 PM</name>
+            <description>4 positive cloud-to-ground lightning flashes from 8:30 PM to 8:45 PM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>110.6942985,-6.6519507</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>102.3944581,-4.8695017</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.6484156,4.5694090</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.2024397,4.6243826</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>8:45 PM - 9:00 PM</name>
+            <description>7 positive cloud-to-ground lightning flashes from 8:45 PM to 9:00 PM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>112.0026132,4.5366253</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>106.6901703,-4.8982077</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>106.6484414,-5.9176606</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>107.0533275,-5.5933909</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>107.4215637,3.5253234</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>106.7939879,-6.4787174</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>108.0154277,-5.3032372</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+      </Folder>
+      <Folder>
+         <name>9:00 PM - 10:00 PM</name>
+         <description>36 positive cloud-to-ground lightning flashes from 9:00 PM to 10:00 PM</description>
+         <Folder>
+            <name>9:00 PM - 9:15 PM</name>
+            <description>11 positive cloud-to-ground lightning flashes from 9:00 PM to 9:15 PM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>107.3021384,-6.0688653</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>107.5615898,3.7710564</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>107.8057440,-5.9786812</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>107.5368168,-6.1381564</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>107.3529753,-4.7759896</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.7547162,-5.4808169</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>108.5584318,-6.1947486</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>108.8997825,-5.5059874</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>108.2543322,-5.5584662</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>108.4562832,-4.6744838</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>108.5215523,-5.6933162</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>9:15 PM - 9:30 PM</name>
+            <description>10 positive cloud-to-ground lightning flashes from 9:15 PM to 9:30 PM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>108.0952646,-4.9525647</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>107.2431497,-3.7846081</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>106.2165268,-5.0509299</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>106.2649883,-5.9808084</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>106.6120861,-4.7720590</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.3211956,-5.2146611</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>107.5777139,-5.1539312</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>108.1412578,-5.6059781</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>108.5467763,-5.5667543</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>108.0541066,-4.9240884</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>9:30 PM - 9:45 PM</name>
+            <description>6 positive cloud-to-ground lightning flashes from 9:30 PM to 9:45 PM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>106.6639266,-5.4601959</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>106.0107494,-4.3513126</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.6396282,-5.3163877</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>105.1803787,-4.9674197</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>104.4659116,-5.4702203</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>104.9986298,-3.9396023</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>9:45 PM - 10:00 PM</name>
+            <description>9 positive cloud-to-ground lightning flashes from 9:45 PM to 10:00 PM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>108.0948883,-4.5453849</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>104.6777154,-4.1080777</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>108.0164710,-4.2743643</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>106.8171515,-3.6272234</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>104.9396241,-5.2791042</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>105.1551119,-4.5349032</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.2444792,-5.6889671</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>108.5872624,-5.4159596</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>108.3272847,-6.0132412</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+      </Folder>
+      <Folder>
+         <name>10:00 PM - 11:00 PM</name>
+         <description>58 positive cloud-to-ground lightning flashes from 10:00 PM to 11:00 PM</description>
+         <Folder>
+            <name>10:00 PM - 10:15 PM</name>
+            <description>18 positive cloud-to-ground lightning flashes from 10:00 PM to 10:15 PM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>105.3015418,-4.9868354</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>106.5796920,-4.8337056</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>105.4599011,-5.2638114</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>105.9036713,-4.9275001</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>106.5476229,-4.3330141</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>105.8194430,-4.2529652</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>106.5999545,-4.0138779</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.0368553,-5.5334759</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>107.7096416,-4.5072166</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.4598129,-5.6451429</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>107.4812208,-4.9627277</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.5754610,-5.4352096</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>108.9981711,-5.2725629</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>107.3176411,-5.7911812</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>104.1877855,-5.1702595</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.4292359,4.7416295</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>107.9351073,-5.2557309</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>107.8466840,-4.4943567</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>10:15 PM - 10:30 PM</name>
+            <description>10 positive cloud-to-ground lightning flashes from 10:15 PM to 10:30 PM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>106.8593240,-4.2457883</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>106.5864754,-4.5271512</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>106.7417352,-3.6088211</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.3045983,-0.6554528</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>105.8910075,-4.7117083</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.2364237,4.6115337</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>107.3289038,-4.8617386</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>107.1426143,-5.6991976</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>107.3997139,-6.1072278</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.6110603,-1.5829264</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>10:30 PM - 10:45 PM</name>
+            <description>17 positive cloud-to-ground lightning flashes from 10:30 PM to 10:45 PM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>109.0689975,-5.5896805</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>108.3350562,-5.9131121</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>108.2388283,-5.5866244</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>108.4600380,-5.7634113</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.5987922,-5.0164618</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>108.0729033,-6.5420346</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>108.8536753,1.6977846</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>108.5705909,-6.2985763</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.6849819,-6.4607773</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.8286454,-6.5417694</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.0636665,-4.7383733</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.9445894,-6.5065605</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.6653345,-6.1550570</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.5435083,-6.3287870</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>112.1090063,-3.3401362</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.1664101,-6.0710426</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.9280444,-6.7668867</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>10:45 PM - 11:00 PM</name>
+            <description>13 positive cloud-to-ground lightning flashes from 10:45 PM to 11:00 PM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>103.6451864,-4.8165911</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.9581636,-6.5099218</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.5654033,-5.2993356</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>106.2943297,-6.3937198</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.0408680,-5.9762984</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>106.6850771,-5.6880979</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.9977900,-4.6130375</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>108.7378208,-6.1604336</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.9487525,-6.1902583</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.6329492,-6.0323579</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.7679026,-4.9897652</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.1643112,-6.9609652</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.2198815,-5.4925555</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+      </Folder>
+      <Folder>
+         <name>11:00 PM - 12:00 AM</name>
+         <description>48 positive cloud-to-ground lightning flashes from 11:00 PM to 12:00 AM</description>
+         <Folder>
+            <name>11:00 PM - 11:15 PM</name>
+            <description>11 positive cloud-to-ground lightning flashes from 11:00 PM to 11:15 PM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>108.9067015,-6.0128460</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.2067588,-6.1133882</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.4605794,-6.0877327</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>108.9509472,-5.3522293</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.8520620,-5.5607767</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.7025752,-5.7455709</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>108.4954909,-5.8347922</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>108.3367843,-5.9695460</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>108.5424791,-5.5644857</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>108.2792467,-5.8549389</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>108.9296910,-5.3925740</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>11:15 PM - 11:30 PM</name>
+            <description>11 positive cloud-to-ground lightning flashes from 11:15 PM to 11:30 PM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>107.9765015,-6.0831570</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.6263955,-4.9768300</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>107.9255418,-5.8845729</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.1514569,-5.0671371</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.8631220,-6.4606239</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.3769622,-6.6177380</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.9379405,-6.4307340</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.0467079,-6.4648167</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.2819072,-6.0201745</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>108.5676451,-5.3295974</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.3707627,-3.6326278</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>11:30 PM - 11:45 PM</name>
+            <description>10 positive cloud-to-ground lightning flashes from 11:30 PM to 11:45 PM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>106.5849791,-4.4535701</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>106.8838033,-5.7887808</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>104.7403242,-3.8338482</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>103.8785379,-3.2513704</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>104.2524496,-4.6434315</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.4740765,-4.8724000</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.2811508,-4.7536100</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.1193419,1.2537856</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.1477902,-6.8982631</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.0770735,-6.9219016</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>11:45 PM - 12:00 AM</name>
+            <description>16 positive cloud-to-ground lightning flashes from 11:45 PM to 12:00 AM</description>
+            <Placemark>
+               <styleUrl>CGPositive</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>110.0007097,-6.5026527</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.7416175,-6.6256708</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.3099392,-6.5860294</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.7666581,-6.7609809</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.6317184,-6.2488014</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.5214602,-6.8847855</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.9697247,-6.0110757</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.5898926,-6.9321150</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.4211675,-6.8889930</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.5332931,-6.7058976</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.0846088,-6.1171822</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>108.5594093,-4.9764645</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>108.4248644,-6.0696288</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.8450436,-4.9475541</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>108.7527035,-6.8437456</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>108.8809952,-6.0417232</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+      </Folder>
+   </Folder>
+   <Folder>
+      <name>-CG</name>
+      <description>negative cloud-to-ground lightning flashes</description>
+      <Folder>
+         <name>12:00 AM - 1:00 AM</name>
+         <description>23 negative cloud-to-ground lightning flashes from 12:00 AM to 1:00 AM</description>
+         <Folder>
+            <name>12:15 AM - 12:30 AM</name>
+            <description>6 negative cloud-to-ground lightning flashes from 12:15 AM to 12:30 AM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>109.2112965,-5.7416285</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.4233882,-3.2838610</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>115.2232242,-2.9728385</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>114.7349004,-3.6239755</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>114.1424206,-5.1881375</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>113.7624523,-4.9632816</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>12:30 AM - 12:45 AM</name>
+            <description>9 negative cloud-to-ground lightning flashes from 12:30 AM to 12:45 AM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>114.0343049,-5.4014237</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>103.6670463,-3.8333827</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>113.9015429,-5.3552569</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>113.9876694,-5.3051851</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>114.2442018,-5.2063067</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>114.2769374,-5.0849409</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>108.1972835,-5.5416694</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>113.8605261,-5.1031597</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>114.1660876,-5.2135095</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>12:45 AM - 1:00 AM</name>
+            <description>8 negative cloud-to-ground lightning flashes from 12:45 AM to 1:00 AM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>109.0244815,-5.3192581</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>113.8401353,-5.2283977</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.5168045,-4.8862255</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.9673772,-6.1726470</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.0434271,-6.0366110</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>113.5064362,-5.3636923</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.8699821,-5.7739181</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>113.7054382,-5.5508094</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+      </Folder>
+      <Folder>
+         <name>1:00 AM - 2:00 AM</name>
+         <description>19 negative cloud-to-ground lightning flashes from 1:00 AM to 2:00 AM</description>
+         <Folder>
+            <name>1:00 AM - 1:15 AM</name>
+            <description>4 negative cloud-to-ground lightning flashes from 1:00 AM to 1:15 AM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>110.8150425,-6.6641796</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>113.1536939,-6.0116558</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>113.2071003,-6.1613210</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.4345543,-6.2204634</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>1:15 AM - 1:30 AM</name>
+            <description>9 negative cloud-to-ground lightning flashes from 1:15 AM to 1:30 AM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>113.6338062,-5.6941079</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>113.5991317,-5.0166689</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.4068373,-6.4459639</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.4024579,-6.2627782</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.3989460,-6.2811779</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.3754957,-6.3319272</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.4090747,-6.3545169</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>113.5986282,-5.5597566</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.4756804,-6.3249465</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>1:30 AM - 1:45 AM</name>
+            <description>4 negative cloud-to-ground lightning flashes from 1:30 AM to 1:45 AM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>110.4590387,-6.3142730</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>113.2908711,-5.9040598</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.3762489,-6.4481623</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.0436199,-5.0006079</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>1:45 AM - 2:00 AM</name>
+            <description>2 negative cloud-to-ground lightning flashes from 1:45 AM to 2:00 AM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>112.6280750,-6.4921540</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.9824080,-6.5103155</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+      </Folder>
+      <Folder>
+         <name>2:00 AM - 3:00 AM</name>
+         <description>7 negative cloud-to-ground lightning flashes from 2:00 AM to 3:00 AM</description>
+         <Folder>
+            <name>2:00 AM - 2:15 AM</name>
+            <description>2 negative cloud-to-ground lightning flashes from 2:00 AM to 2:15 AM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>116.2846905,1.2127339</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.7687738,-5.9816588</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>2:15 AM - 2:30 AM</name>
+            <description>1 negative cloud-to-ground lightning flashes from 2:15 AM to 2:30 AM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>109.6771394,-5.8102755</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>2:30 AM - 2:45 AM</name>
+            <description>2 negative cloud-to-ground lightning flashes from 2:30 AM to 2:45 AM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>109.6319830,-6.3372272</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.0690396,-6.0727335</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>2:45 AM - 3:00 AM</name>
+            <description>2 negative cloud-to-ground lightning flashes from 2:45 AM to 3:00 AM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>108.5238462,-6.1582703</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.7777299,-6.4669809</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+      </Folder>
+      <Folder>
+         <name>3:00 AM - 4:00 AM</name>
+         <description>21 negative cloud-to-ground lightning flashes from 3:00 AM to 4:00 AM</description>
+         <Folder>
+            <name>3:00 AM - 3:15 AM</name>
+            <description>5 negative cloud-to-ground lightning flashes from 3:00 AM to 3:15 AM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>113.8191431,-5.6713441</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>114.0835541,-5.6168618</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>113.9493197,-5.7224529</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>113.1015272,-7.0072965</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>112.9571061,-7.0243289</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>3:15 AM - 3:30 AM</name>
+            <description>6 negative cloud-to-ground lightning flashes from 3:15 AM to 3:30 AM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>112.8352117,-7.3075502</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>115.3685558,-5.8997705</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>112.8801930,-7.2646618</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>107.8780220,-5.3071119</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>113.1648420,-6.8588497</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>108.2591829,-5.1159394</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>3:30 AM - 3:45 AM</name>
+            <description>9 negative cloud-to-ground lightning flashes from 3:30 AM to 3:45 AM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>115.4435131,-5.6709612</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.5638716,-4.8675173</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.8427051,-4.7048412</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.8845340,-4.6172174</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.3545616,-6.0687572</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.1877668,-6.3043044</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.9870881,-4.0183480</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.3875874,-6.0996358</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.5781740,-4.3695544</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>3:45 AM - 4:00 AM</name>
+            <description>1 negative cloud-to-ground lightning flashes from 3:45 AM to 4:00 AM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>111.3733572,-5.6130920</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+      </Folder>
+      <Folder>
+         <name>4:00 AM - 5:00 AM</name>
+         <description>23 negative cloud-to-ground lightning flashes from 4:00 AM to 5:00 AM</description>
+         <Folder>
+            <name>4:00 AM - 4:15 AM</name>
+            <description>3 negative cloud-to-ground lightning flashes from 4:00 AM to 4:15 AM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>111.5852374,-5.9981853</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5558539,-5.8158674</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.2293412,-5.7568009</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>4:15 AM - 4:30 AM</name>
+            <description>6 negative cloud-to-ground lightning flashes from 4:15 AM to 4:30 AM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>111.2509130,-5.7504344</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.7419868,-6.9671350</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.3978855,-6.0518133</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.4001060,-5.9737332</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.6516420,-6.8049593</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.4539363,-5.9803178</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>4:30 AM - 4:45 AM</name>
+            <description>3 negative cloud-to-ground lightning flashes from 4:30 AM to 4:45 AM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>111.4631681,-5.8969283</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.3976272,-5.8003143</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>113.5180150,-6.3273942</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>4:45 AM - 5:00 AM</name>
+            <description>11 negative cloud-to-ground lightning flashes from 4:45 AM to 5:00 AM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>111.1738374,-5.3103909</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.3486094,-5.9661220</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.8281456,-5.4946523</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>112.0465301,-4.6992979</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5709592,-4.5987989</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5148055,-5.8829763</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5415304,-5.3770900</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5337428,-5.0710626</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.6705347,-6.2308845</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.4792785,-4.6411421</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5188227,-4.8387126</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+      </Folder>
+      <Folder>
+         <name>5:00 AM - 6:00 AM</name>
+         <description>52 negative cloud-to-ground lightning flashes from 5:00 AM to 6:00 AM</description>
+         <Folder>
+            <name>5:00 AM - 5:15 AM</name>
+            <description>2 negative cloud-to-ground lightning flashes from 5:00 AM to 5:15 AM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>111.6353124,-6.2798707</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5576660,-6.4127181</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>5:15 AM - 5:30 AM</name>
+            <description>9 negative cloud-to-ground lightning flashes from 5:15 AM to 5:30 AM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>111.6382630,-6.3724039</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.6689266,-6.3850505</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.8835402,-6.1097471</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.4799942,-6.2027971</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5506695,-6.3904125</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5191054,-6.1893545</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5287785,-6.3206537</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.3432540,-6.3015797</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5927512,-6.2970264</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>5:30 AM - 5:45 AM</name>
+            <description>17 negative cloud-to-ground lightning flashes from 5:30 AM to 5:45 AM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>111.5986042,-6.3311563</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.6498553,-6.2812624</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5036195,-6.3486025</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.6189748,-6.3582733</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.7906379,-6.0858126</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5360369,-6.2842041</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5325410,-6.2431891</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.4838228,-6.1782936</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.4953934,-6.2503611</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5201236,-6.2609462</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.4970176,-6.1815666</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.7162584,-6.1416826</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5144041,-6.3258603</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5013197,-6.2641680</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.7105466,-6.1198845</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5199276,-6.2080289</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.4966324,-6.3112500</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>5:45 AM - 6:00 AM</name>
+            <description>24 negative cloud-to-ground lightning flashes from 5:45 AM to 6:00 AM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>111.5293253,-6.2754899</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.8381900,-6.2301988</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.6702605,-6.3713531</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.7695602,-6.2628431</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.6011663,-6.3483717</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.6093713,-6.3996905</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5966237,-6.3584988</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5948404,-6.4008516</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5988445,-6.3580002</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5775791,-6.3576180</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.7873439,-6.2815902</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>102.3900618,-2.8953927</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.7609617,-6.2775731</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5582123,-6.3482974</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.8311857,-6.2728948</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5947248,-6.2832017</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.8461348,-6.1259593</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5530376,-6.2595197</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.4829318,-6.0788216</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.6960818,-5.9631129</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.6427307,-5.8000763</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.4582457,-6.2554423</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5624156,-5.8056450</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.4961064,-6.2254448</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+      </Folder>
+      <Folder>
+         <name>6:00 AM - 7:00 AM</name>
+         <description>57 negative cloud-to-ground lightning flashes from 6:00 AM to 7:00 AM</description>
+         <Folder>
+            <name>6:00 AM - 6:15 AM</name>
+            <description>9 negative cloud-to-ground lightning flashes from 6:00 AM to 6:15 AM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>111.3130347,-6.1530127</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5359289,-6.1374704</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>116.8485366,0.7857428</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.4539137,-6.2726384</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5680596,-6.2201511</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.4626308,-6.3584095</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.4851711,-6.4100573</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5419470,-6.2557162</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.3764053,-6.3305473</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>6:15 AM - 6:30 AM</name>
+            <description>15 negative cloud-to-ground lightning flashes from 6:15 AM to 6:30 AM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>111.5305597,-6.3069988</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5048026,-6.1597077</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.6406724,-6.2231201</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>113.8188511,-4.4481894</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5846409,-6.1865377</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.7642503,-6.2644087</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5862793,-6.4228780</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5249106,-6.3514082</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5864162,-6.4014489</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5438201,-6.3380896</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5809720,-6.2923929</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5234939,-6.3169879</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5654742,-6.3421310</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.4110209,-6.3430317</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.4356623,-6.3185814</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>6:30 AM - 6:45 AM</name>
+            <description>20 negative cloud-to-ground lightning flashes from 6:30 AM to 6:45 AM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>111.5744831,-6.2990420</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5400994,-6.2532555</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5250588,-6.4095890</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.4246295,-6.3325295</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.4881607,-6.4206455</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.4617548,-6.4307355</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.6679366,-6.2938963</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.4945157,-6.3142003</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.4624559,-6.5370769</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5158085,-6.4980568</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.6975155,-6.5697782</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.7154657,-6.3878276</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.6657314,-6.5093163</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5368195,-6.4923733</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.6009402,-6.4529059</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.7081231,-6.6295467</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.6786063,-6.5615161</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.6566739,-6.6137062</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.7280662,-6.6512030</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.6432673,-6.5882251</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>6:45 AM - 7:00 AM</name>
+            <description>13 negative cloud-to-ground lightning flashes from 6:45 AM to 7:00 AM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>111.7295477,-6.6799165</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.6658195,-6.6699868</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.6810954,-6.6294353</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.6537370,-6.5860423</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.8106623,-6.5066476</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5997822,-6.6080942</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.6538931,-6.0885272</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.6793448,-6.4159865</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.4517844,-6.4180787</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5863297,-6.3148150</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5071469,-6.4720451</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.6036850,-6.4119833</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.7146335,-6.3807412</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+      </Folder>
+      <Folder>
+         <name>7:00 AM - 8:00 AM</name>
+         <description>55 negative cloud-to-ground lightning flashes from 7:00 AM to 8:00 AM</description>
+         <Folder>
+            <name>7:00 AM - 7:15 AM</name>
+            <description>2 negative cloud-to-ground lightning flashes from 7:00 AM to 7:15 AM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>111.5250521,-7.0278663</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>112.0239209,-6.7805087</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>7:15 AM - 7:30 AM</name>
+            <description>11 negative cloud-to-ground lightning flashes from 7:15 AM to 7:30 AM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>111.6784109,-6.4948274</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.3535411,-6.4068297</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.7561487,-6.4889297</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.4489551,-6.4416732</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.3879251,-6.4878247</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.3770597,-6.5025060</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.4051863,-6.5080432</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.6801078,-6.2299183</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5887182,-6.2780866</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.6747977,-6.1382931</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.3598599,-6.4822064</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>7:30 AM - 7:45 AM</name>
+            <description>14 negative cloud-to-ground lightning flashes from 7:30 AM to 7:45 AM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>111.3546669,-6.4669378</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.6035808,-6.3569151</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.4307640,-6.5054289</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5914669,-6.2528779</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.6254679,-6.4002825</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.4457974,-6.4751870</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.3504819,-6.4960853</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.4074788,-6.4354432</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.3669702,-6.4737465</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.3324718,-6.4462917</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5479098,-6.1442449</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.2303416,-6.3549568</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.4663177,-6.0376727</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.4520904,-5.9084267</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>7:45 AM - 8:00 AM</name>
+            <description>28 negative cloud-to-ground lightning flashes from 7:45 AM to 8:00 AM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>109.6400278,-5.7390694</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.3993025,-6.1451350</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.4676378,-5.7061253</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.3335792,-5.8920359</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.0748689,-5.8867465</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.2150188,-5.9222224</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.2735834,-6.4046719</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.7956866,-5.9267098</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.3714857,-6.1959451</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.4977794,-6.2570578</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.7297870,-6.2070589</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.3564904,-6.4874546</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.3974869,-7.0551513</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.3725255,-6.3430225</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.4437754,-6.1249330</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.8659202,-6.9664717</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5729283,-6.6473492</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.6450856,-6.4303244</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.8548760,-6.9480555</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.7631491,-6.5446447</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.8437511,-6.6384821</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.7233515,-6.5158922</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.6551657,-6.8202806</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.7816542,-6.6046140</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.7333309,-7.2027160</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.7635440,-7.0338764</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.6281322,-6.4404954</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.7060356,-6.7564355</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+      </Folder>
+      <Folder>
+         <name>8:00 AM - 9:00 AM</name>
+         <description>65 negative cloud-to-ground lightning flashes from 8:00 AM to 9:00 AM</description>
+         <Folder>
+            <name>8:00 AM - 8:15 AM</name>
+            <description>26 negative cloud-to-ground lightning flashes from 8:00 AM to 8:15 AM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>111.7340962,-6.8286524</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.8735684,-6.7971199</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.7330710,-7.1227814</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.6156889,-6.4500836</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5697385,-6.9951133</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5600331,-6.6827296</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.7387037,-6.5471610</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.6742662,-7.0849599</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.6358884,-6.4569670</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.6344811,-6.8607403</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.6464887,-6.7207354</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5416392,-7.0843733</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5614624,-6.6665937</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.6956480,-6.5222175</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.6996575,-6.5623542</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.7454518,-6.6513540</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.4867962,-7.0836016</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.6647767,-6.5258910</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5876396,-6.4117490</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5982029,-6.3429919</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5971395,-6.5204744</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.2049820,-6.6999537</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5908262,-6.3868855</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5666689,-6.3485265</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5761396,-6.3253806</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.4907370,-6.3248221</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>8:15 AM - 8:30 AM</name>
+            <description>17 negative cloud-to-ground lightning flashes from 8:15 AM to 8:30 AM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>111.3411937,-6.8040562</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.3026682,-6.4904801</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5479953,-6.3077879</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.3655575,-6.4774964</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.6107357,-6.3051824</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5828403,-6.4750886</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.3833837,-6.2890639</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.3495367,-6.5089945</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.4192381,-6.3312159</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.2131327,-6.7329939</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.1878815,-6.7937748</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.3262182,-6.5061672</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5463122,-6.4250530</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.7346660,-6.5305772</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.1896107,-6.9122153</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.6338774,-6.6257072</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.9689881,-6.7143115</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>8:30 AM - 8:45 AM</name>
+            <description>10 negative cloud-to-ground lightning flashes from 8:30 AM to 8:45 AM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>111.8401737,-6.7122181</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.9208238,-6.8486475</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.0382276,-6.3245328</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.6807380,-6.4679916</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5413566,-6.5988272</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.6706274,-6.4083406</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5516882,-6.2610434</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.2803713,-6.4939845</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.2358537,-6.4280809</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.4753612,-6.4062633</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>8:45 AM - 9:00 AM</name>
+            <description>12 negative cloud-to-ground lightning flashes from 8:45 AM to 9:00 AM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>110.5557846,-6.6399070</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.4498438,-6.4435011</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.3602604,-6.3882878</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.4090539,-6.2211691</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.6187783,-6.6687119</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.3217903,-6.3038073</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5855809,-5.5677120</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.1808566,-5.4895332</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.2011851,-4.8151150</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.8320161,-3.8308647</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.2865798,-3.7229562</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>106.9436637,-2.1624282</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+      </Folder>
+      <Folder>
+         <name>9:00 AM - 10:00 AM</name>
+         <description>27 negative cloud-to-ground lightning flashes from 9:00 AM to 10:00 AM</description>
+         <Folder>
+            <name>9:00 AM - 9:15 AM</name>
+            <description>6 negative cloud-to-ground lightning flashes from 9:00 AM to 9:15 AM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>108.6419328,-1.0249303</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>107.4456568,-2.6735564</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>107.9663114,-2.0023971</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.2365139,-6.7271821</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.2741350,-6.8673184</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>108.4390660,-2.4777135</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>9:15 AM - 9:30 AM</name>
+            <description>14 negative cloud-to-ground lightning flashes from 9:15 AM to 9:30 AM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>108.2498199,-2.3915998</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>108.6032160,-2.1438661</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>107.9296228,-2.2777218</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>107.8696508,-1.8873865</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>107.5382717,-1.6981356</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>107.9881862,-2.1352760</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>107.9592242,-1.9773643</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.7639646,-7.1681855</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>108.1228913,-2.3364012</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>108.1021454,-2.0600998</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>108.0674748,-2.2019497</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5740926,-7.1435738</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>108.0550246,-2.1868121</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>107.7979306,-2.3755345</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>9:30 AM - 9:45 AM</name>
+            <description>7 negative cloud-to-ground lightning flashes from 9:30 AM to 9:45 AM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>107.9722039,-2.0726493</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.6253821,-4.0166359</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.2874099,-4.1501662</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.1223408,-4.5437153</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.2356772,-4.6240716</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.6456410,-5.2318043</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>112.4024701,-7.2543529</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+      </Folder>
+      <Folder>
+         <name>10:00 AM - 11:00 AM</name>
+         <description>24 negative cloud-to-ground lightning flashes from 10:00 AM to 11:00 AM</description>
+         <Folder>
+            <name>10:00 AM - 10:15 AM</name>
+            <description>1 negative cloud-to-ground lightning flashes from 10:00 AM to 10:15 AM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>111.6348401,-7.1233357</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>10:15 AM - 10:30 AM</name>
+            <description>4 negative cloud-to-ground lightning flashes from 10:15 AM to 10:30 AM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>110.8657759,-5.9833091</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.2452299,-5.8180689</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>112.0904609,-6.9626526</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.9996718,-6.8152908</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>10:30 AM - 10:45 AM</name>
+            <description>6 negative cloud-to-ground lightning flashes from 10:30 AM to 10:45 AM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>111.0496434,-5.4940677</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.7016399,-5.6154000</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.9621550,-5.2730840</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.7675826,-5.5394869</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.7133877,-5.7216344</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.7788864,-5.6802983</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>10:45 AM - 11:00 AM</name>
+            <description>13 negative cloud-to-ground lightning flashes from 10:45 AM to 11:00 AM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>111.4506035,-6.3578429</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.7690425,-6.5864946</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.8927270,-6.6736164</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.9611233,-6.6288967</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.7697174,-6.8435980</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.7286581,-6.7779685</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.7591985,-6.6477372</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.7624573,-6.7431096</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.6849708,-6.7852777</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.7365281,-6.7185914</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.7938354,-6.5688666</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.7878591,-6.7948927</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.7239556,-6.7979831</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+      </Folder>
+      <Folder>
+         <name>11:00 AM - 12:00 PM</name>
+         <description>8 negative cloud-to-ground lightning flashes from 11:00 AM to 12:00 PM</description>
+         <Folder>
+            <name>11:00 AM - 11:15 AM</name>
+            <description>4 negative cloud-to-ground lightning flashes from 11:00 AM to 11:15 AM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>111.7052828,-6.5812480</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5374150,-6.6553725</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5460093,-6.6603499</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.7633865,-6.4719311</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>11:15 AM - 11:30 AM</name>
+            <description>1 negative cloud-to-ground lightning flashes from 11:15 AM to 11:30 AM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>111.3665675,-6.5935491</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>11:30 AM - 11:45 AM</name>
+            <description>3 negative cloud-to-ground lightning flashes from 11:30 AM to 11:45 AM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>111.2776763,-6.7234613</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.6958200,-6.3444581</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.3293919,-6.8351454</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+      </Folder>
+      <Folder>
+         <name>12:00 PM - 1:00 PM</name>
+         <description>7 negative cloud-to-ground lightning flashes from 12:00 PM to 1:00 PM</description>
+         <Folder>
+            <name>12:00 PM - 12:15 PM</name>
+            <description>2 negative cloud-to-ground lightning flashes from 12:00 PM to 12:15 PM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>110.1334116,-5.5615143</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.4194072,-5.6029499</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>12:15 PM - 12:30 PM</name>
+            <description>2 negative cloud-to-ground lightning flashes from 12:15 PM to 12:30 PM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>111.6006619,-6.6750210</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5514261,-6.7790156</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>12:30 PM - 12:45 PM</name>
+            <description>3 negative cloud-to-ground lightning flashes from 12:30 PM to 12:45 PM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>109.8988427,-5.3707939</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.1999160,-5.2109868</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.1442328,-4.0302660</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+      </Folder>
+      <Folder>
+         <name>1:00 PM - 2:00 PM</name>
+         <description>11 negative cloud-to-ground lightning flashes from 1:00 PM to 2:00 PM</description>
+         <Folder>
+            <name>1:00 PM - 1:15 PM</name>
+            <description>1 negative cloud-to-ground lightning flashes from 1:00 PM to 1:15 PM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>109.9341223,-5.5816992</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>1:30 PM - 1:45 PM</name>
+            <description>5 negative cloud-to-ground lightning flashes from 1:30 PM to 1:45 PM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>110.9624869,-6.0371209</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.8785270,-5.6356212</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.2189145,-2.9044241</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.8924285,-6.3758575</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.2731925,-6.0805272</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>1:45 PM - 2:00 PM</name>
+            <description>5 negative cloud-to-ground lightning flashes from 1:45 PM to 2:00 PM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>110.0449965,-5.8813746</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.9678404,-6.2840469</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.5976770,-5.5934837</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.1092399,-6.0958690</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.3568960,-5.5433103</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+      </Folder>
+      <Folder>
+         <name>2:00 PM - 3:00 PM</name>
+         <description>23 negative cloud-to-ground lightning flashes from 2:00 PM to 3:00 PM</description>
+         <Folder>
+            <name>2:00 PM - 2:15 PM</name>
+            <description>10 negative cloud-to-ground lightning flashes from 2:00 PM to 2:15 PM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>111.4508085,-6.5907117</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.3952987,-6.6049776</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5575453,-6.5883287</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.8066239,-3.2860321</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.4911123,-6.6428231</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.4264290,-6.5931310</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.3751994,-6.5459003</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.3843792,-6.5718565</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.1471542,-6.9590476</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.3980769,-6.5430037</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>2:15 PM - 2:30 PM</name>
+            <description>5 negative cloud-to-ground lightning flashes from 2:15 PM to 2:30 PM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>108.6341946,-6.1517557</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>112.2524515,-6.5766898</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>112.3124476,-6.5278349</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.6830547,-6.8212681</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>112.3427025,-6.5908265</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>2:30 PM - 2:45 PM</name>
+            <description>5 negative cloud-to-ground lightning flashes from 2:30 PM to 2:45 PM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>111.6371400,-6.7834118</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.4967015,-7.0884353</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5456685,-6.6981212</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.1861966,-4.7299940</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.7192803,-6.8325397</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>2:45 PM - 3:00 PM</name>
+            <description>3 negative cloud-to-ground lightning flashes from 2:45 PM to 3:00 PM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>111.7300093,-6.8331644</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.6912977,-6.8086513</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.6907943,-6.8038119</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+      </Folder>
+      <Folder>
+         <name>3:00 PM - 4:00 PM</name>
+         <description>10 negative cloud-to-ground lightning flashes from 3:00 PM to 4:00 PM</description>
+         <Folder>
+            <name>3:00 PM - 3:15 PM</name>
+            <description>2 negative cloud-to-ground lightning flashes from 3:00 PM to 3:15 PM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>111.8225058,-4.8041403</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.8867098,-4.3681489</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>3:15 PM - 3:30 PM</name>
+            <description>4 negative cloud-to-ground lightning flashes from 3:15 PM to 3:30 PM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>111.9794939,-4.3167929</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>108.9316087,-6.4038301</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.5277897,-6.6413646</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.4577659,-6.5468412</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>3:30 PM - 3:45 PM</name>
+            <description>2 negative cloud-to-ground lightning flashes from 3:30 PM to 3:45 PM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>111.5772060,-6.6516176</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.7689603,-4.5811401</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>3:45 PM - 4:00 PM</name>
+            <description>2 negative cloud-to-ground lightning flashes from 3:45 PM to 4:00 PM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>111.8549242,-4.6826171</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>112.2726276,-5.4127807</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+      </Folder>
+      <Folder>
+         <name>4:00 PM - 5:00 PM</name>
+         <description>3 negative cloud-to-ground lightning flashes from 4:00 PM to 5:00 PM</description>
+         <Folder>
+            <name>4:00 PM - 4:15 PM</name>
+            <description>1 negative cloud-to-ground lightning flashes from 4:00 PM to 4:15 PM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>112.3316144,-6.8460620</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>4:15 PM - 4:30 PM</name>
+            <description>1 negative cloud-to-ground lightning flashes from 4:15 PM to 4:30 PM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>107.5041810,-4.8689620</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>4:30 PM - 4:45 PM</name>
+            <description>1 negative cloud-to-ground lightning flashes from 4:30 PM to 4:45 PM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>112.2952111,-6.9579033</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+      </Folder>
+      <Folder>
+         <name>5:00 PM - 6:00 PM</name>
+         <description>17 negative cloud-to-ground lightning flashes from 5:00 PM to 6:00 PM</description>
+         <Folder>
+            <name>5:00 PM - 5:15 PM</name>
+            <description>4 negative cloud-to-ground lightning flashes from 5:00 PM to 5:15 PM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>110.3826773,-4.2769980</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.5809443,-4.5617640</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.8166229,-4.6560158</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.0893034,-5.7872687</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>5:15 PM - 5:30 PM</name>
+            <description>2 negative cloud-to-ground lightning flashes from 5:15 PM to 5:30 PM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>112.4436808,-5.6154124</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>108.3701515,-5.2408834</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>5:30 PM - 5:45 PM</name>
+            <description>10 negative cloud-to-ground lightning flashes from 5:30 PM to 5:45 PM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>111.3984327,-4.7528902</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>112.0173812,-5.3846975</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>112.0120898,-5.4480638</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>112.1627881,-5.0398529</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>112.4165939,-6.9879813</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>112.3186249,-6.9640565</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>112.4120545,-6.8079452</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>112.5483186,-6.9318245</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>112.3979355,-6.9540371</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>111.8420361,-5.9364455</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>5:45 PM - 6:00 PM</name>
+            <description>1 negative cloud-to-ground lightning flashes from 5:45 PM to 6:00 PM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>111.7377931,-6.3194808</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+      </Folder>
+      <Folder>
+         <name>6:00 PM - 7:00 PM</name>
+         <description>3 negative cloud-to-ground lightning flashes from 6:00 PM to 7:00 PM</description>
+         <Folder>
+            <name>6:15 PM - 6:30 PM</name>
+            <description>2 negative cloud-to-ground lightning flashes from 6:15 PM to 6:30 PM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>111.7115610,-4.3808624</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>90.5387411,6.7729146</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>6:45 PM - 7:00 PM</name>
+            <description>1 negative cloud-to-ground lightning flashes from 6:45 PM to 7:00 PM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>110.6171617,0.7839082</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+      </Folder>
+      <Folder>
+         <name>7:00 PM - 8:00 PM</name>
+         <description>5 negative cloud-to-ground lightning flashes from 7:00 PM to 8:00 PM</description>
+         <Folder>
+            <name>7:00 PM - 7:15 PM</name>
+            <description>2 negative cloud-to-ground lightning flashes from 7:00 PM to 7:15 PM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>102.2222920,2.3515593</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>99.9767755,-0.4637939</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>7:15 PM - 7:30 PM</name>
+            <description>1 negative cloud-to-ground lightning flashes from 7:15 PM to 7:30 PM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>99.7863542,-1.3622258</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>7:30 PM - 7:45 PM</name>
+            <description>1 negative cloud-to-ground lightning flashes from 7:30 PM to 7:45 PM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>103.3794551,-6.0715205</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>7:45 PM - 8:00 PM</name>
+            <description>1 negative cloud-to-ground lightning flashes from 7:45 PM to 8:00 PM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>103.4777754,-5.0455785</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+      </Folder>
+      <Folder>
+         <name>8:00 PM - 9:00 PM</name>
+         <description>7 negative cloud-to-ground lightning flashes from 8:00 PM to 9:00 PM</description>
+         <Folder>
+            <name>8:00 PM - 8:15 PM</name>
+            <description>2 negative cloud-to-ground lightning flashes from 8:00 PM to 8:15 PM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>96.7068265,1.2762262</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>96.6902466,-1.5473330</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>8:15 PM - 8:30 PM</name>
+            <description>3 negative cloud-to-ground lightning flashes from 8:15 PM to 8:30 PM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>110.1551924,1.8264525</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>105.9170218,-3.8648174</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>103.9521777,-4.9360927</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>8:30 PM - 8:45 PM</name>
+            <description>1 negative cloud-to-ground lightning flashes from 8:30 PM to 8:45 PM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>108.9605690,4.2860962</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>8:45 PM - 9:00 PM</name>
+            <description>1 negative cloud-to-ground lightning flashes from 8:45 PM to 9:00 PM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>107.9294199,-5.5574166</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+      </Folder>
+      <Folder>
+         <name>9:00 PM - 10:00 PM</name>
+         <description>5 negative cloud-to-ground lightning flashes from 9:00 PM to 10:00 PM</description>
+         <Folder>
+            <name>9:00 PM - 9:15 PM</name>
+            <description>1 negative cloud-to-ground lightning flashes from 9:00 PM to 9:15 PM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>107.6361484,-6.0815663</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>9:15 PM - 9:30 PM</name>
+            <description>1 negative cloud-to-ground lightning flashes from 9:15 PM to 9:30 PM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>108.0289271,-4.7709289</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>9:30 PM - 9:45 PM</name>
+            <description>3 negative cloud-to-ground lightning flashes from 9:30 PM to 9:45 PM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>107.2756367,-5.0415379</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>105.3291261,-3.8963004</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>106.7319782,-4.9781395</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+      </Folder>
+      <Folder>
+         <name>10:00 PM - 11:00 PM</name>
+         <description>6 negative cloud-to-ground lightning flashes from 10:00 PM to 11:00 PM</description>
+         <Folder>
+            <name>10:15 PM - 10:30 PM</name>
+            <description>4 negative cloud-to-ground lightning flashes from 10:15 PM to 10:30 PM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>105.2975457,-5.0329628</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.8719110,0.2089288</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>107.4911006,-5.3957180</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>108.6408059,-3.8901443</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>10:30 PM - 10:45 PM</name>
+            <description>2 negative cloud-to-ground lightning flashes from 10:30 PM to 10:45 PM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>110.5192867,-7.0281526</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.7300146,-6.7499873</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+      </Folder>
+      <Folder>
+         <name>11:00 PM - 12:00 AM</name>
+         <description>6 negative cloud-to-ground lightning flashes from 11:00 PM to 12:00 AM</description>
+         <Folder>
+            <name>11:30 PM - 11:45 PM</name>
+            <description>2 negative cloud-to-ground lightning flashes from 11:30 PM to 11:45 PM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>109.5565533,-3.5968724</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.7335994,-6.6991817</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+         <Folder>
+            <name>11:45 PM - 12:00 AM</name>
+            <description>4 negative cloud-to-ground lightning flashes from 11:45 PM to 12:00 AM</description>
+            <Placemark>
+               <styleUrl>CGNegative</styleUrl>
+               <MultiGeometry>
+                  <Point>
+                     <coordinates>110.4087701,-6.8289268</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>110.2166539,-6.5843315</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.5841075,-6.0972651</coordinates>
+                  </Point>
+                  <Point>
+                     <coordinates>109.7666882,-6.4954192</coordinates>
+                  </Point>
+               </MultiGeometry>
+            </Placemark>
+         </Folder>
+      </Folder>
+   </Folder>
+</Document>
+</kml>
